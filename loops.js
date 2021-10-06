@@ -6,9 +6,6 @@
 // Hoera!
 // ==========================================
 
-// const congrats = ["Hoera!", "Hoera!", "Hoera!"];
-// const congrats = ["Hoera!"];
-
 
 for (let i=0; i < 3; i++) {
 
@@ -25,7 +22,7 @@ for (let i=0; i < 3; i++) {
 // klaar!
  // ==========================================
 
-// const loop = "loop";
+
 
 for (let i = 0; i < 5 ; i++) {
 
@@ -39,13 +36,6 @@ for (let i = 0; i < 5 ; i++) {
         console.log("klaar");
     }
 }
-
-    // console.log(loop + "...");
-
-    // for (let i = 0; i > loop.length + 1; i++) {
-    //     console.log(loop + "klaar!");
-
-    // }
 
 
 
@@ -67,16 +57,6 @@ for (let i = 0; i < 5 ; i++) {
 // const oddNumbers = "1";
 
 
-//     for (let i = 0; i < evenNumbers.length ; i++) {
-//
-//         console.log(evenNumbers + "is even");
-//     }
-//
-// if (let i = 0; i < evenNumbers.length ; i++) {
-//
-//     console.log(evenNumbers + "is even");
-// }
-//
 
 for (let i = 0 ; i < 16; i++ ) {
     if(i % 2 == 0) {
